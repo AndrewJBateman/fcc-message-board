@@ -17,6 +17,7 @@ mongoose.connect(process.env.DB, { useNewUrlParser: true }, (err, db) => {
   };
 });
 
+//Create mongoose schemas for replies and threads, to be converted into document models later
 const repliesSchema = new mongoose.Schema({
   text: {
     type: String,
