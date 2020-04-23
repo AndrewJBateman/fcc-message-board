@@ -1,10 +1,10 @@
-# FCC Anon Message Board
+# :zap: FCC Anon Message Board
 
 Free Code Camp project to post, get and delete messages using Node.js and express + mongoDB
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -15,15 +15,15 @@ Free Code Camp project to post, get and delete messages using Node.js and expres
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## :books: General info
 
 * Code had to be functionally similar to [this](https://horn-celery.glitch.me/).
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/screen.png).
 
-## Technologies
+## :signal_strength: Technologies
 
 * [Express.js v4.16.4](https://expressjs.com/) web framework for Node.js
 * [Cors v2.8.5](https://www.npmjs.com/package/cors) node.js package to enable Cross Origin Resource Sharing (CORS)
@@ -36,11 +36,11 @@ Free Code Camp project to post, get and delete messages using Node.js and expres
 * [Helmet v3.15.0](https://www.npmjs.com/package/helmet) to set HTTP headers
 * [Mongoose v5.4.0](https://mongoosejs.com/) mongodb object modelling for node.js
 
-## Setup
+## :floppy_disk: Setup
 
 * View in [Glitch](https://anon-message-board.glitch.me/).
 
-## Code Examples
+## :computer: Code Examples
 
 * function to show board data (minus reported and delete_password fields, with latest 3 replies)
 
@@ -56,7 +56,7 @@ Free Code Camp project to post, get and delete messages using Node.js and expres
   }
 ```
 
-## Features - FCC Requirements:
+## :cool: Features - FCC Requirements:
 
 * Only allow your site to be loading in an iFrame on your own pages.
 * Do not allow DNS prefetching.
@@ -71,17 +71,17 @@ Free Code Camp project to post, get and delete messages using Node.js and expres
 * I can report a reply and change its reported value to true by sending a PUT request to /api/replies/{board} and pass along the threadid_ & replyid_. (Text response will be 'success')
 * Complete functional tests that wholly test routes and pass.
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
 * Status: Working.
 
 * To-Do: complete documentation of code.
 
-## Inspiration
+## :clap: Inspiration
 
 * FreeCodeCamp: [Information Security and Quality Assurance Projects - Anonymous Message Board](https://www.freecodecamp.org/learn/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/anonymous-message-board).
 * [TutorialsPoint article: ExpressJS - Middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
