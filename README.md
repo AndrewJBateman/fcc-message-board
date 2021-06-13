@@ -1,8 +1,12 @@
 # :zap: FCC Anon Message Board
 
 * Free Code Camp project to post, get and delete messages using Node.js and express + mongoDB
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/fcc-message-board?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/fcc-message-board?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/fcc-message-board?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/fcc-message-board?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -90,6 +94,10 @@
 * FreeCodeCamp: [Information Security and Quality Assurance Projects - Anonymous Message Board](https://www.freecodecamp.org/learn/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/anonymous-message-board).
 * [TutorialsPoint article: ExpressJS - Middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
